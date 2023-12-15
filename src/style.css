@@ -1,0 +1,63 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.navbar{
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.nav__head{
+  color: white;
+}
+
+.nav__list{
+  color: gray;
+  margin-right: 70px;
+}
+
+.search{
+  text-align: center;
+  margin: 40px;
+}
+
+.search__input{
+  padding: 10px;
+  width: 70%;
+}
+
+.img{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.img__photo{
+  border: solid black 2px;
+  margin: 2px;
+}
+
+.aboutus{
+  margin-top: 40px;
+  text-align: center;
+}
+
+.aboutus__head{
+  margin-bottom: 10px;
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.footer__para{
+  color: gray;
+  margin-top: 30px;
+}
